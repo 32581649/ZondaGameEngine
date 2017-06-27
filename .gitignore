@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Self git ignore
+# Exclude file
+ZondaEngine/
