@@ -34,3 +34,5 @@
 # Self git ignore
 # Exclude file
 ZondaEngine/
+ZondaEngine/ZondaEngine/
+ZondaEngine/Debug/
